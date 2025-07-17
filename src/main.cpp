@@ -1,5 +1,3 @@
-//TITLE-Cross‑Platform Task Manager with Plugin System (C++)
-
 #include "TaskManager.hpp"    // To use TaskManager
 #include <iostream>           // For output
 
@@ -17,16 +15,3 @@ int main() {
 
     return 0;                 // Exit
 }
-
-
-//Order to understand the project
-
-// main.cpp
-// TaskManager.hpp
-// TaskManager.cpp
-// Task.hpp
-// PlatformUtils.hpp
-// PlatformUtils.cpp
-// PluginInterface.hpp
-// plugins/sample_plugin/SamplePlugin.cpp
-// CMakeLists.txt
