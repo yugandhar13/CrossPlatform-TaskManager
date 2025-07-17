@@ -1,0 +1,4 @@
+/home/yugandhar/Project/TaskManager/build/CMakeFiles/TaskManager.dir
+/home/yugandhar/Project/TaskManager/build/CMakeFiles/sample_plugin.dir
+/home/yugandhar/Project/TaskManager/build/CMakeFiles/edit_cache.dir
+/home/yugandhar/Project/TaskManager/build/CMakeFiles/rebuild_cache.dir
