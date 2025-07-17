@@ -3,6 +3,7 @@
 
 int main() {
     TaskManager tm;           // Create manager
+    
 
     // Load the plugin shared object from current folder
     tm.loadPlugin("./libsample_plugin.so");
